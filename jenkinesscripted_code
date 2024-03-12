@@ -1,1 +1,25 @@
-hello world
+node {
+    stage('Build') {
+        // Code for building your application (e.g., compiling code, packaging artifacts)
+        echo 'Building...'
+        // Example: mvn clean package
+    }
+
+    stage('Deploy') {
+        // Code for deploying your application (e.g., copying artifacts to a server)
+        echo 'Deploying...'
+        // Example: scp target/myapp.war user@server:/path/to/deployment/
+    }
+
+    stage('Test') {
+        // Code for testing your application (e.g., running unit tests, integration tests)
+        echo 'Testing...'
+        // Example: mvn test
+    }
+
+    stage('Release') {
+        // Code for releasing your application (e.g., updating version, tagging in version control)
+        echo 'Releasing...'
+        // Example: git tag -a v1.0 -m "Release v1.0"; git push --tags
+    }
+}
