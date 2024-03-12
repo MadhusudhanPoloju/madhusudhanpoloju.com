@@ -1,0 +1,38 @@
+pipeline {
+    agent {madhusudhan}
+    
+    stages {
+        stage('Build') {
+            steps {
+                echo 'Building...'
+                // Add your build steps here
+            }
+        }
+        stage('Test') {
+            steps {
+                echo 'Testing...'
+                // Add your test steps here
+            }
+        }
+        stage('Deploy') {
+            steps {
+                echo 'Deploying...'
+                // Add your deployment steps here
+            }
+        }
+    }
+    
+    post {
+        always {
+            // Any cleanup steps you want to run regardless of the build status
+        }
+        success {
+            echo 'Pipeline succeeded!'
+            // Steps to execute if the pipeline is successful
+        }
+        failure {
+            echo 'Pipeline failed!'
+            // Steps to execute if the pipeline fails
+        }
+    }
+}
