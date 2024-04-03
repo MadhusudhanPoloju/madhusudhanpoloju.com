@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "luminous-mesh-418320",
+  "private_key_id": "e0046b2d84c18f41d20394013cbd30f466045a15",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDMPUr4Qe4tx3N4\ndaQQUYXBwIQ3AqmKDrDGrS2zAM8ep8UuKHAW08qvgNE2sqqKdG3C3/LKoNPDo405\nW98prvzZpWQneRM5HYkZQLjxm0gE5ZGtv2/KmSLPuzYA2WK9R54BtByItxQKRDLl\nKG+JoOBdByv+ZCdtgo4tD6n3Qbmnh6oCbs8QledyYRc+7ecDJIto9gzWg/qHeaL2\nu51H4Ce2ulpmMfm0zbxn99qritV8yLuU08BkTI2D071twLIep2yAS4j4nQanRcFC\n+LHtNQV2Zi2gKUmtsLsL7PDdOKH6VzD+sCUvnvmC/gbjK/BiFDC6QAyVGz0+U7LL\n4Xk491c1AgMBAAECggEADvUIKgEuD7U1HCPFZZqKyKMwK5Uq1Fz6Djq9h4fuIykX\nNCeq+cj95XdyGubfvW8EYMqkzbkUeRXfsE0tnTBe/RNzL77arQqgMTS/tpXwIser\nMQW9iqFHXt4veMVyyTjW9fn6QvrhYVUYQxcAgBxDghyV2LX9+zOd9OfaQyzRi1au\n5i/wMMCzR59DHu+0lzF5tbwtJRN267U8B+6QQ3Qvvkuj1NdKjWJXmZ6PSMmcGlyo\nzJt2204phqUtQ8Q1Fu789DCitrV8Y9kuPcAqgpNBMiwXLCaR/Wu24vYC3IiEg7fw\nL5cbNRfzIZ43camuekOH1Wx6UpJiTH2RX/XnJqmCQQKBgQD/kjrNTobn7Ix0E9QR\nsyJ9mG7HcZcu2sTYihwbbJ5KMb3llswolCigpJnPWhgU1Pj2PxMvyUkN10Yxzqmh\n2uJoTat/aISx7FlR0lUxaO/piYPNgJUlDKa/3ZM0YRJrzsSDL0ZgRetzHWffuIWO\nWByd41+4iit8voCPQrDRLlhwVQKBgQDMlQQCJdyJrhKT2XmaDvUtg2gMLMDYMzf3\nCI3lHoUx9LXvfZiTFcT6sfGVr/hs9+LN4bMLnga8FzF16mEh2+olce8CvmjCwB7P\nIjVzMh0rozU+6DMxMNs9aymN1nVdLM1iLJSjRaYtoyXRZ3MXEvRJvagz4HDrQdNO\nVr5KuLyrYQKBgCWhsIrejzrDOAM3kDhy+hcoRNeVQD+j8uw3md/n5H7kSCPwSmuH\nNVxCIGvJxlX67hXEP9z/dIRXOHzJA21Tv5bAKQp/p1pThOtpXyYBX6Ixn3i5AD0O\nWddSlwRVbtL1BTaT1XcDlKHEqLDmiLPnAX+2JTgVEEYz/tYZadPDUT5pAoGBAIXY\nlIfHN5NINNVQOjOlx5igWWllukF4uQvBJ/yXzDLT1Fg8hp7sZjRSSSlSuKiqQVPL\nbzWRjPxv/CcWUbgyRe17rhDQfH+17DI+QlP8nIMZQ1PF3QA446c6PjSS87QjBLhP\nTGvJvKAtFif7k5usBfFcyPgvxhDUvyeIrvT6Ck3hAoGAZxBsWipk7oRZGeuSIGf1\ngR5GsCnuTZm9Dp4ahvo5Qs9tkcawC13SMS1qWiQdoQD/7NsSclhv7mwTnOkZi3Og\nhLnbqhhhxO/22Bh4E6cbcXgcXeK9mxYtQ4sM3wpUnYmigGFSLzhHKpdkk8LdJeGX\naqD0wkYyENKQTFjazaoqMwc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "freecodecamp-terraform@luminous-mesh-418320.iam.gserviceaccount.com",
+  "client_id": "115314387268581386528",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/freecodecamp-terraform%40luminous-mesh-418320.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
